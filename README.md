@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Harpica
-- 🌱 I’m currently just learning with TheOdinProject
+- 🌱 I’m currently just learning with TheOdinProject and Ya.Practicum
 
 
 <!---
