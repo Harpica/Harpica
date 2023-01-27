@@ -1,3 +1,7 @@
+<p align="center"><img src="https://img.freepik.com/free-vector/cute-cat-working-laptop-cartoon-icon-illustration_138676-2815.jpg?w=1060&t=st=1674831557~exp=1674832157~hmac=e22e14470cae228e84c960f537d3c3fb63353ab51d019778bc7cd3768f8a50ce" width="100"/></p>
+
+
+### :smiley_cat: &nbsp; About me :
 - 👋 Hi, I’m @Harpica
 - 🌱 I’m Junior Frontend developer
 
