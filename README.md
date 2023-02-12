@@ -24,6 +24,8 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="Latex" **alt="Latex" width="40" height="40"/>&nbsp;
 </p>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harpica&layout=compact)](https://github.com/harpica/github-readme-stats)
+
 
 <!---
 Harpica/Harpica is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
