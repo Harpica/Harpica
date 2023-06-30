@@ -3,7 +3,7 @@
 
 ### :smiley_cat: &nbsp; About me :
 - 👋 Hi, I’m @Harpica
-- 🌱 I’m Junior Frontend developer
+- 🌱 I’m Junior Fullstack developer
 - 🌱 Looking for internship/full-time job position
 
 ### 🛠 &nbsp; Languages and Tools :
