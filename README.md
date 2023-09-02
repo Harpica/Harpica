@@ -4,7 +4,6 @@
 ### :smiley_cat: &nbsp; About me :
 - 👋 Hi, I’m @Harpica
 - 🌱 I’m Junior Fullstack developer
-- 🌱 Looking for internship/full-time job position
 
 ### 🛠 &nbsp; Languages and Tools :
 <p>
