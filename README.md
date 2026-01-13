@@ -3,7 +3,7 @@
 
 ### :smiley_cat: &nbsp; About me :
 - 👋 Hi, I’m @Harpica
-- 🌱 I’m Junior Fullstack developer
+- 🌱 I’m Fullstack developer
 
 ### 🛠 &nbsp; Languages and Tools :
 <p>
