@@ -25,7 +25,6 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" **alt="Figma" width="40" height="40"/>&nbsp;
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harpica&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!---
